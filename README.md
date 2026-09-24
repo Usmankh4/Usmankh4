@@ -31,5 +31,5 @@ TypeScript · React · Node.js / Express · PostgreSQL · LangChain · REST APIs
 
 ## 📫 Reach me
 
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/khanusman77/
+- Email: usmankhanx3@hotmail.com
