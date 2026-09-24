@@ -13,8 +13,8 @@ TypeScript · React · Node.js / Express · SQL · PostgreSQL · LangChain · RE
 ## 📌 Featured projects
 
 - **[pdf-knowledge-assistant](https://github.com/Usmankh4/pdf-knowledge-assistant)** —
-  Ask questions about your PDFs. RAG pipeline built with LangChain, an
-  Express API backend, and a React frontend.
+  Ask questions about your PDFs. LlamaIndex ingestion + vector index with a
+  LangChain RetrievalQA chain, Express API backend, and React frontend.
 - **[github-repo-explorer](https://github.com/Usmankh4/github-repo-explorerv2)** —
   Explore any GitHub user's repositories with search, filtering, and repo
   stats. React + TypeScript frontend backed by an Express API.
