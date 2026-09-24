@@ -8,7 +8,7 @@ building production-grade SaaS projects.
 
 ## 🛠️ Stack
 
-TypeScript · React · Node.js / Express · PostgreSQL · LangChain · REST APIs
+TypeScript · React · Node.js / Express · SQL · PostgreSQL · LangChain · REST APIs
 
 ## 📌 Featured projects
 
