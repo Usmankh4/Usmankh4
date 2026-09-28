@@ -7,7 +7,7 @@ Currently going deep on the AI engineering stack (LangChain, LlamaIndex).
 
 ##  Stack
 
-TypeScript · React · Node.js / Express · SQL · PostgreSQL · LangChain · REST APIs
+TypeScript · React · Node.js / Express · SQL · PostgreSQL · REST APIs · LangChain · LlamaIndex
 
 ##  Featured projects
 
