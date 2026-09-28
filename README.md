@@ -1,10 +1,9 @@
 # Hi, I'm Usman Khan 👋
 
-**Full-Stack Developer** · Mississauga, ON · Open to Toronto & remote roles
+**Full-Stack Developer** · Toronto, ON · Open to Toronto & remote roles
 
 I build full-stack applications with TypeScript, React, Node.js, and PostgreSQL.
-Currently going deep on the AI engineering stack (LangChain, LlamaIndex) and
-building production-grade SaaS projects.
+Currently going deep on the AI engineering stack (LangChain, LlamaIndex).
 
 ## 🛠️ Stack
 
@@ -22,12 +21,6 @@ TypeScript · React · Node.js / Express · SQL · PostgreSQL · LangChain · RE
   Weather app consuming a public weather API. JavaScript.
 - **[Express.js-REST-APIs](https://github.com/Usmankh4/Express.js-REST-APIs)** —
   REST API practice: routing, middleware, and CRUD with Express.js.
-
-## 🌱 Currently
-
-- Building an **uptime monitor SaaS** (TypeScript, React, Node/Express, Postgres) —
-  multi-region checks, alerting, and status pages.
-- Grinding LeetCode and studying system design for technical interviews.
 
 ## 📫 Reach me
 
