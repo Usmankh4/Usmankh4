@@ -5,11 +5,11 @@
 I build full-stack applications with TypeScript, React, Node.js, and PostgreSQL.
 Currently going deep on the AI engineering stack (LangChain, LlamaIndex).
 
-## 🛠️ Stack
+##  Stack
 
 TypeScript · React · Node.js / Express · SQL · PostgreSQL · LangChain · REST APIs
 
-## 📌 Featured projects
+##  Featured projects
 
 - **[pdf-knowledge-assistant](https://github.com/Usmankh4/pdf-knowledge-assistant)** —
   Ask questions about your PDFs. LlamaIndex ingestion + vector index with a
@@ -22,7 +22,7 @@ TypeScript · React · Node.js / Express · SQL · PostgreSQL · LangChain · RE
 - **[Express.js-REST-APIs](https://github.com/Usmankh4/Express.js-REST-APIs)** —
   REST API practice: routing, middleware, and CRUD with Express.js.
 
-## 📫 Reach me
+##  Reach me
 
 - LinkedIn: https://www.linkedin.com/in/khanusman77/
 - Email: usmankhanx3@hotmail.com
